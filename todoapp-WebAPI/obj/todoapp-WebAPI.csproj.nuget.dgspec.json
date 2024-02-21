@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Class\\Year_3\\Full-stack\\practice\\todoapp-WebAPI\\todoapp-WebAPI.csproj": {}
+    "E:\\Class\\Year_3\\Full-stack\\TodoApp_Git\\TodoListApp\\todoapp-WebAPI\\todoapp-WebAPI.csproj": {}
   },
   "projects": {
-    "E:\\Class\\Year_3\\Full-stack\\practice\\todoapp-WebAPI\\todoapp-WebAPI.csproj": {
+    "E:\\Class\\Year_3\\Full-stack\\TodoApp_Git\\TodoListApp\\todoapp-WebAPI\\todoapp-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Class\\Year_3\\Full-stack\\practice\\todoapp-WebAPI\\todoapp-WebAPI.csproj",
+        "projectUniqueName": "E:\\Class\\Year_3\\Full-stack\\TodoApp_Git\\TodoListApp\\todoapp-WebAPI\\todoapp-WebAPI.csproj",
         "projectName": "todoapp-WebAPI",
-        "projectPath": "E:\\Class\\Year_3\\Full-stack\\practice\\todoapp-WebAPI\\todoapp-WebAPI.csproj",
+        "projectPath": "E:\\Class\\Year_3\\Full-stack\\TodoApp_Git\\TodoListApp\\todoapp-WebAPI\\todoapp-WebAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Class\\Year_3\\Full-stack\\practice\\todoapp-WebAPI\\obj\\",
+        "outputPath": "E:\\Class\\Year_3\\Full-stack\\TodoApp_Git\\TodoListApp\\todoapp-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
