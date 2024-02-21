@@ -1,0 +1,17 @@
+<div class = "list-container">
+    <h1>Todo List</h1>
+    <mat-card *ngFor="let item of todoItems" class = "todo-card">
+        <mat-card-content>
+            {{item.title}}
+        </mat-card-content>
+    </mat-card>
+</div>
+
+
+
+<!--
+    {{todoItems | json}}
+    <button mat-raised-button color="primary">Primary</button>
+    <mat-card-content>Simple card</mat-card-content>
+    <p>todo-list works!</p>
+-->
